@@ -12,7 +12,7 @@ Javascript, HTML, CSS, React, Next.js, Node.js, Java, Spring,
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-manniti-338360183/)
 
 
-## Other Common Github Profile Sections
+## Other
 👩‍💻 I'm currently working with Accenture and Matrix consulting group
 
 🧠 I'm currently learning Next.js
